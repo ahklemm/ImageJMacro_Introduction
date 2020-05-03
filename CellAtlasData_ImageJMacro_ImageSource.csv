@@ -1,0 +1,13 @@
+gene,location,plate,well,sample,info,img jpg
+PDS5A,nucleoplasm,551,C10,1,https://v19.proteinatlas.org/ENSG00000121892-PDS5A,http://images.proteinatlas.org/36661/551_C10_1_blue_red_green.jpg
+PDS5A,nucleoplasm,551,C10,2,https://v19.proteinatlas.org/ENSG00000121892-PDS5A,http://images.proteinatlas.org/36661/551_C10_2_blue_red_green.jpg
+LMNB1,nuclear membrane,711,D6,1,https://v19.proteinatlas.org/ENSG00000113368-LMNB1,http://images.proteinatlas.org/50524/711_D6_1_blue_red_green.jpg
+LMNB1,nuclear membrane,711,D6,2,https://v19.proteinatlas.org/ENSG00000113368-LMNB1,http://images.proteinatlas.org/50524/711_D6_2_blue_red_green.jpg
+TAF15,nucleoplasm,783,A5,2,https://v19.proteinatlas.org/ENSG00000270647-TAF15,http://images.proteinatlas.org/52059/783_A5_2_blue_red_green.jpg
+TAF15,nucleoplasm,783,A5,1,https://v19.proteinatlas.org/ENSG00000270647-TAF15,http://images.proteinatlas.org/52059/783_A5_1_blue_red_green.jpg
+TMPO,nuclear membrane,931,H7,1,https://v19.proteinatlas.org/ENSG00000120802-TMPO,http://images.proteinatlas.org/9847/931_H7_1_blue_red_green.jpg
+TMPO,nuclear membrane,931,H7,2,https://v19.proteinatlas.org/ENSG00000120802-TMPO,http://images.proteinatlas.org/9847/931_H7_2_blue_red_green.jpg
+TPR,nuclear membrane,1773,H11,2,https://v19.proteinatlas.org/ENSG00000047410-TPR,http://images.proteinatlas.org/24336/1773_H11_2_blue_red_green.jpg
+TPR,nuclear membrane,1773,H11,1,https://v19.proteinatlas.org/ENSG00000047410-TPR,http://images.proteinatlas.org/24336/1773_H11_1_blue_red_green.jpg
+LMNB1,nuclear membrane,1894,G3,4,https://v19.proteinatlas.org/ENSG00000113368-LMNB1,http://images.proteinatlas.org/79757/1894_G3_4_blue_red_green.jpg
+LMNB1,nuclear membrane,1894,G3,5,https://v19.proteinatlas.org/ENSG00000113368-LMNB1,http://images.proteinatlas.org/79757/1894_G3_5_blue_red_green.jpg
