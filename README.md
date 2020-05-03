@@ -1,7 +1,7 @@
 # ImageJMacro_Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language.
 
-# Learning Outcomes
+## Learning Outcomes
 * Record workflows for automation and documentation
 * Explain the concepts of variables, for-loops, conditional statements, arrays – and use them within the ImageJ macro language.
 * Modify ROIs within the ROI-Manager via scripting.
@@ -9,7 +9,7 @@ A first introduction to scripting in Fiji using the ImageJ Macro language.
 * Independently explore new functionalities of ImageJ macro scripting within the Built-in macro functions.
 * Create your own script to automate your workflows
 
-# Prerequisites
+## Prerequisites
 To be able to follow the course you need to know basic image analysis concepts and how to apply them using Fiji:
 * pixel scaling (pixel size)
 * handling of multi-channel images
