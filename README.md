@@ -2,6 +2,7 @@
 A first introduction to scripting in Fiji using the ImageJ Macro language.
 
 ## Learning Outcomes
+After the session you will be able to:
 * Record workflows for automation and documentation
 * Explain the concepts of variables, for-loops, conditional statements, arrays – and use them within the ImageJ macro language.
 * Modify ROIs within the ROI-Manager via scripting.
