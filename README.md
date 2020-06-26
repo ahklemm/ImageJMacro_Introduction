@@ -1,6 +1,18 @@
 # ZIDAS2020 ImageJMacro_Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language.
 
+## Session:
+29 June 2020 during https://2020.zidas.org/
+
+Presented by:
+
+Anna Klemm, Bioimage Informatics Facility, SciLifeLab, Sweden 
+
+Christian Tischer, Centre for Bioimage Analysis (CBA) EMBL, Germany
+
+Slides:
+https://docs.google.com/presentation/d/1r4PhZlWLbTnO19RALbYzfp9rsbpdcOXwmytmJLyuMiM/edit?usp=sharing
+
 ## Learning Outcomes
 After the session you will be able to:
 * Record workflows for automation and documentation
@@ -22,3 +34,4 @@ To be able to follow the course you need to know basic image analysis concepts a
 ## online resources:
 * You can ask questions related to this course on: https://forum.image.sc/t/neubias-academy-home-interactive-course-imagej-fiji-macro-language-questions-answers/
 * The recording of a previous version of the course can be found on: https://www.youtube.com/watch?v=o8tfkdcd3DA&t=6s
+
