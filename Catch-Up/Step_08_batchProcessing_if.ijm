@@ -1,8 +1,7 @@
 /* 
- * NEUBIAS Academy
  * ImageJ/Fiji Macro Language
  * anna.klemm@it.uu.se - BioImage Informatics Facility @SciLifeLab
- * April 2020
+ * June 2020
  */
 
 //batch processing
@@ -55,7 +54,7 @@ for (f=0; f<fileList.length; f++){ //loops over all images in the given director
 	
 	
 	selectWindow("nuclei");
-	run("Analyze Particles...", "size=" + num + "-Infinity add"); //add to ROI-Manager by running analyze particles
+	run("Analyze Particles...", "size=" + num + "-Infinity exclude add"); //add to ROI-Manager by running analyze particles
 	
 	//Step4: Retrieve the nuclear envelope's boundaries and save them in the ROI-Manager
 	numberOfNuclei = roiManager("count");

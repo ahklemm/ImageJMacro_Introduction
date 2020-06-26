@@ -1,8 +1,7 @@
 /* 
- * NEUBIAS Academy
  * ImageJ/Fiji Macro Language
  * anna.klemm@it.uu.se - BioImage Informatics Facility @SciLifeLab
- * April 2020
+ * June 2020
  */
 
 //Step1: Getting image information + Normalise the data name
@@ -33,7 +32,7 @@ run("Fill Holes");
 //Step3: Retrieve the nuclei's boundaries
 num = getNumber("minimum size", 2000 );
 selectWindow("nuclei");
-run("Analyze Particles...", "size=" + num + "-Infinity add"); //add to ROI-Manager by running analyze particles
+run("Analyze Particles...", "size=" + num + "-Infinity exclude add"); //add to ROI-Manager by running analyze particles
 
 
 
