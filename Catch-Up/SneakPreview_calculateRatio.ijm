@@ -55,7 +55,7 @@ for (f=0; f<fileList.length; f++){ //loops over all images in the given director
 	
 	
 	selectWindow("nuclei");
-	run("Analyze Particles...", "size=" + minSize + "-Infinity add"); //add to ROI-Manager by running analyze particles
+	run("Analyze Particles...", "size=" + minSize + "-Infinity exclude add"); //add to ROI-Manager by running analyze particles
 	
 	//Step4: Retrieve the nuclear envelope's boundaries and save them in the ROI-Manager
 	run("Clear Results");
