@@ -5,6 +5,10 @@
  * April 2020
  */
 
+//clean-up to prepare for analysis
+roiManager("reset");	
+run("Clear Results");
+	
 //Step1: Getting image information + Normalise the data name
 //get general information
 title = getTitle();
@@ -51,7 +55,7 @@ selectWindow("signal");
 roiManager("deselect");  //ensures that no ROI is selected
 roiManager("Measure");	//measures active ROI or - if no ROI is selected - all ROIs
 // Save results 
-saveAs("results", "C:/Users/Anna/Desktop/Neubias_output/Results.csv");
+saveAs("results", "C:/Users/IT-WL-annkl878/Desktop/output/Results.csv");
 	
 
 

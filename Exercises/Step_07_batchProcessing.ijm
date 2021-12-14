@@ -66,7 +66,6 @@ for (f=0; f<fileList.length; f++){ //loops over all images in the given director
 	roiManager("Measure");	//measures active ROI or - if no ROI is selected - all ROIs
 	
 	// Save results with specific name
-	//saveAs("results", "C:/Users/Anna/Desktop/Neubias_output/Results.csv");
 	saveAs("results", "C:/Users/Anna/Desktop/Neubias_output/" + title + "_results.xls");
 	
 		
